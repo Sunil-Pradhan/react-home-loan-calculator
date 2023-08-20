@@ -2,9 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## General info
 
-In the project directory, you can run:
+I have used React to build Home Loan Calculator. You can select what would be your home value, how much you are ready to pay as down payment, how much you need as loan amount and what would be the interest rate. 
+
+Finally, you can select the tenure of the loan amount, based on all the criteria pie chart would draw and inform you monthly EMI amount. Also, the pie chart will inform you on the principal and interest amount which you are going to pay. 
+
+#### [Live Site](https://react-home-loan-calculator.netlify.app/)
+
+## Screenshot of the App
+
+![React Home Loan Calculator](https://i.ibb.co/1GGTtjr/react-1.jpg)
 
 ### `npm start`
 
